@@ -71,6 +71,9 @@ git clone https://github.com/IamNishanKhan/RideShareApp.git
 cd RideShareApp
 npm install
 ```# test-ride
+<<<<<<< HEAD
 # test-ride
+=======
 # test-ride
-# test-ride
+[Other content from remote repository]
+>>>>>>> [commit hash]
